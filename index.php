@@ -9,5 +9,10 @@
 <body>
     <h2>HALLO GESSSS</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum sit nihil, pariatur, perferendis doloribus possimus ullam quis veniam mollitia quam esse consequuntur sint modi aliquid autem dolorum cum aperiam explicabo.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
