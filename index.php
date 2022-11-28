@@ -15,6 +15,6 @@
         <li>tiga</li>
     </ul>
 
-    <h1>LU ITU NIGGA ANJENG</h1>
+    <h1>ga boleh itu rasis</h1>
 </body>
 </html>
