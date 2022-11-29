@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Jokowi</title>
+</head>
+<body>
+  <h1>tutorial menghilangkan jokowi dengan javascript</h1>
+  <h1 id="berhasil" style="display: none;">selamat anda berhasil 😱😱😱😱😅😅☝️😎😅😅😅👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿😎</h1>
+  <img src="jokowi.jpg" id="img" alt="" style="width: 40%;"> <br>
+  <button id="btn" onclick="hilang()">KLIK TOMBOL INI 😱😱😱😱</button>
+
+  <script>
+    let img = document.getElementById('img')
+    let button = document.getElementById('btn')
+    let berhasil = document.getElementById('berhasil')
+
+    function hilang() {
+      img.style.display = "none";
+      btn.style.display = "none";
+      berhasil.style.display = "block";
+    }
+  </script>
+</body>
+</html>

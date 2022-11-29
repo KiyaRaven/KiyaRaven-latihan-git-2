@@ -1,0 +1,18 @@
+body {
+  font-family: arial;
+}
+
+button {
+  height: 50px;
+  font-weight: bold;
+  background: none;
+  transition: .2s;
+  margin-top: 25px;
+}
+
+button:hover {
+  transform: translateY(-10%);
+  background-color: #0f3460;
+  color: white;
+}
+
